@@ -1,0 +1,21 @@
+services:
+  - type: web
+    name: maze-shooters
+    runtime: node
+    plan: free
+    numInstances: 1
+    buildCommand: npm ci --include=dev && npm run build
+    startCommand: npm start
+    healthCheckPath: /health
+    autoDeployTrigger: "off"
+    envVars:
+      - key: NODE_VERSION
+        value: "24.22.1"
+      - key: NODE_ENV
+        value: production
+      - key: HOST
+        value: "0.0.0.0"
+      - key: MAX_ROOMS
+        value: "16"
+      - key: MAX_CONNECTIONS
+        value: "32"

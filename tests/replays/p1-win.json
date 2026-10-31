@@ -1,0 +1,1488 @@
+{
+  "rulesVersion": 1,
+  "mapId": "maze-01",
+  "mapVersion": 2,
+  "shooter": "p1",
+  "runs": [
+    {
+      "ticks": 60,
+      "mask": 1
+    },
+    {
+      "ticks": 119,
+      "mask": 4
+    },
+    {
+      "ticks": 1,
+      "mask": 1
+    },
+    {
+      "ticks": 36,
+      "mask": 4
+    },
+    {
+      "ticks": 89,
+      "mask": 8
+    },
+    {
+      "ticks": 1,
+      "mask": 0
+    },
+    {
+      "ticks": 3,
+      "mask": 2
+    },
+    {
+      "ticks": 1,
+      "mask": 0
+    },
+    {
+      "ticks": 2,
+      "mask": 2
+    },
+    {
+      "ticks": 1,
+      "mask": 0
+    },
+    {
+      "ticks": 2,
+      "mask": 2
+    },
+    {
+      "ticks": 1,
+      "mask": 0
+    },
+    {
+      "ticks": 1,
+      "mask": 2
+    },
+    {
+      "ticks": 1,
+      "mask": 0
+    },
+    {
+      "ticks": 1,
+      "mask": 2
+    },
+    {
+      "ticks": 1,
+      "mask": 8
+    },
+    {
+      "ticks": 2,
+      "mask": 2
+    },
+    {
+      "ticks": 1,
+      "mask": 0
+    },
+    {
+      "ticks": 1,
+      "mask": 2
+    },
+    {
+      "ticks": 1,
+      "mask": 8
+    },
+    {
+      "ticks": 2,
+      "mask": 2
+    },
+    {
+      "ticks": 1,
+      "mask": 8
+    },
+    {
+      "ticks": 1,
+      "mask": 2
+    },
+    {
+      "ticks": 1,
+      "mask": 0
+    },
+    {
+      "ticks": 1,
+      "mask": 2
+    },
+    {
+      "ticks": 1,
+      "mask": 8
+    },
+    {
+      "ticks": 1,
+      "mask": 2
+    },
+    {
+      "ticks": 1,
+      "mask": 0
+    },
+    {
+      "ticks": 1,
+      "mask": 2
+    },
+    {
+      "ticks": 1,
+      "mask": 8
+    },
+    {
+      "ticks": 1,
+      "mask": 2
+    },
+    {
+      "ticks": 2,
+      "mask": 0
+    },
+    {
+      "ticks": 1,
+      "mask": 2
+    },
+    {
+      "ticks": 1,
+      "mask": 8
+    },
+    {
+      "ticks": 1,
+      "mask": 2
+    },
+    {
+      "ticks": 1,
+      "mask": 8
+    },
+    {
+      "ticks": 1,
+      "mask": 2
+    },
+    {
+      "ticks": 3,
+      "mask": 0
+    },
+    {
+      "ticks": 1,
+      "mask": 2
+    },
+    {
+      "ticks": 1,
+      "mask": 8
+    },
+    {
+      "ticks": 1,
+      "mask": 2
+    },
+    {
+      "ticks": 1,
+      "mask": 8
+    },
+    {
+      "ticks": 1,
+      "mask": 2
+    },
+    {
+      "ticks": 1,
+      "mask": 8
+    },
+    {
+      "ticks": 1,
+      "mask": 2
+    },
+    {
+      "ticks": 1,
+      "mask": 1
+    },
+    {
+      "ticks": 9,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 1
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 2,
+      "mask": 1
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 2,
+      "mask": 1
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 2,
+      "mask": 1
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 2,
+      "mask": 1
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 1
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 2,
+      "mask": 1
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 3,
+      "mask": 1
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 3,
+      "mask": 1
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 6,
+      "mask": 1
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 17,
+      "mask": 1
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 12,
+      "mask": 1
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 8,
+      "mask": 1
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 10,
+      "mask": 4
+    },
+    {
+      "ticks": 1,
+      "mask": 12
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 1,
+      "mask": 12
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 1,
+      "mask": 12
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 1,
+      "mask": 12
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 1,
+      "mask": 12
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 1,
+      "mask": 12
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 1,
+      "mask": 12
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 1,
+      "mask": 12
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 1,
+      "mask": 12
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 1,
+      "mask": 12
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 1,
+      "mask": 12
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 1,
+      "mask": 12
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 1,
+      "mask": 12
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 1,
+      "mask": 12
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 1,
+      "mask": 12
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 1,
+      "mask": 12
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 1,
+      "mask": 12
+    },
+    {
+      "ticks": 80,
+      "mask": 4
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 1,
+      "mask": 12
+    },
+    {
+      "ticks": 4,
+      "mask": 4
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 1,
+      "mask": 12
+    },
+    {
+      "ticks": 3,
+      "mask": 4
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 1,
+      "mask": 12
+    },
+    {
+      "ticks": 3,
+      "mask": 4
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 1,
+      "mask": 12
+    },
+    {
+      "ticks": 3,
+      "mask": 4
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 1,
+      "mask": 12
+    },
+    {
+      "ticks": 3,
+      "mask": 4
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 1,
+      "mask": 12
+    },
+    {
+      "ticks": 2,
+      "mask": 4
+    },
+    {
+      "ticks": 90,
+      "mask": 2
+    },
+    {
+      "ticks": 4,
+      "mask": 8
+    },
+    {
+      "ticks": 1,
+      "mask": 0
+    },
+    {
+      "ticks": 2,
+      "mask": 8
+    },
+    {
+      "ticks": 1,
+      "mask": 0
+    },
+    {
+      "ticks": 2,
+      "mask": 8
+    },
+    {
+      "ticks": 1,
+      "mask": 2
+    },
+    {
+      "ticks": 2,
+      "mask": 8
+    },
+    {
+      "ticks": 1,
+      "mask": 0
+    },
+    {
+      "ticks": 1,
+      "mask": 8
+    },
+    {
+      "ticks": 1,
+      "mask": 0
+    },
+    {
+      "ticks": 1,
+      "mask": 8
+    },
+    {
+      "ticks": 1,
+      "mask": 2
+    },
+    {
+      "ticks": 2,
+      "mask": 8
+    },
+    {
+      "ticks": 1,
+      "mask": 2
+    },
+    {
+      "ticks": 2,
+      "mask": 8
+    },
+    {
+      "ticks": 1,
+      "mask": 2
+    },
+    {
+      "ticks": 1,
+      "mask": 8
+    },
+    {
+      "ticks": 1,
+      "mask": 0
+    },
+    {
+      "ticks": 1,
+      "mask": 8
+    },
+    {
+      "ticks": 1,
+      "mask": 2
+    },
+    {
+      "ticks": 1,
+      "mask": 8
+    },
+    {
+      "ticks": 1,
+      "mask": 0
+    },
+    {
+      "ticks": 1,
+      "mask": 8
+    },
+    {
+      "ticks": 1,
+      "mask": 2
+    },
+    {
+      "ticks": 1,
+      "mask": 8
+    },
+    {
+      "ticks": 1,
+      "mask": 2
+    },
+    {
+      "ticks": 1,
+      "mask": 8
+    },
+    {
+      "ticks": 1,
+      "mask": 0
+    },
+    {
+      "ticks": 1,
+      "mask": 8
+    },
+    {
+      "ticks": 1,
+      "mask": 2
+    },
+    {
+      "ticks": 1,
+      "mask": 8
+    },
+    {
+      "ticks": 1,
+      "mask": 2
+    },
+    {
+      "ticks": 1,
+      "mask": 8
+    },
+    {
+      "ticks": 1,
+      "mask": 2
+    },
+    {
+      "ticks": 1,
+      "mask": 8
+    },
+    {
+      "ticks": 2,
+      "mask": 0
+    },
+    {
+      "ticks": 1,
+      "mask": 8
+    },
+    {
+      "ticks": 9,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 1
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 2,
+      "mask": 1
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 2,
+      "mask": 1
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 1
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 2,
+      "mask": 1
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 2,
+      "mask": 1
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 3,
+      "mask": 1
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 4,
+      "mask": 1
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 5,
+      "mask": 1
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 1,
+      "mask": 9
+    },
+    {
+      "ticks": 1,
+      "mask": 3
+    },
+    {
+      "ticks": 7,
+      "mask": 12
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 1,
+      "mask": 12
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 3,
+      "mask": 4
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 1,
+      "mask": 12
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 1,
+      "mask": 12
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 4,
+      "mask": 4
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 1,
+      "mask": 12
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 1,
+      "mask": 12
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 4,
+      "mask": 4
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 1,
+      "mask": 12
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 1,
+      "mask": 12
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 1,
+      "mask": 12
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 4,
+      "mask": 4
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 1,
+      "mask": 12
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 1,
+      "mask": 12
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 1,
+      "mask": 12
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 1,
+      "mask": 12
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 5,
+      "mask": 4
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 1,
+      "mask": 12
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 1,
+      "mask": 12
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 1,
+      "mask": 12
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 1,
+      "mask": 12
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 1,
+      "mask": 12
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 1,
+      "mask": 12
+    },
+    {
+      "ticks": 1,
+      "mask": 6
+    },
+    {
+      "ticks": 4,
+      "mask": 4
+    }
+  ]
+}

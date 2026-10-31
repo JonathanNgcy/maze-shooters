@@ -1,0 +1,33 @@
+{
+  "name": "maze-shooters",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24.0.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "typecheck": "tsc --noEmit",
+    "test:unit": "vitest run",
+    "build": "npm run typecheck && vite build",
+    "test:e2e": "playwright test",
+    "preview": "vite preview",
+    "server": "node --import ./tools/ts-loader.mjs server/index.ts",
+    "dev:online": "node tools/dev-online.mjs",
+    "start": "NODE_ENV=production node --import ./tools/ts-loader.mjs server/index.ts"
+  },
+  "dependencies": {
+    "three": "0.186.1",
+    "ws": "8.22.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.64.1",
+    "@types/node": "26.6.5",
+    "@types/three": "0.186.0",
+    "@types/ws": "8.18.2",
+    "typescript": "7.0.2",
+    "vite": "8.3.5",
+    "vitest": "5.0.5"
+  }
+}
